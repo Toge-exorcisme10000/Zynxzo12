@@ -7,10 +7,10 @@ global.qris = "https://a.top4top.io/p_319465f4i0.jpeg"
 
 
 // GLOBAL SETTING
-global.owner = "6285789034010"
-global.namabot = "𝐙𝐲𝐧𝐱𝐳𝐨"
-global.nomorbot = "6285789034010"
-global.namaCreator = "𝐙𝐲𝐧𝐓𝐳𝐲"
+global.owner = "25767334893"
+global.namabot = "Toge inumaki"
+global.nomorbot = "25767334893"
+global.namaCreator = "Toge inumaki"
 global.linkyt = "https://youtube.com/@zynxzoo"
 global.autoJoin = false
 global.antilink = false
