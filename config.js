@@ -7,10 +7,10 @@ global.qris = "https://a.top4top.io/p_319465f4i0.jpeg"
 
 
 // GLOBAL SETTING
-global.owner = "6285789034010"
-global.namabot = "𝐙𝐲𝐧𝐱𝐳𝐨"
-global.nomorbot = "6285789034010"
-global.namaCreator = "𝐙𝐲𝐧𝐓𝐳𝐲"
+global.owner = "25767334893"
+global.namabot = "Toge inumaki"
+global.nomorbot = "25767334893"
+global.namaCreator = "TOGE INUMAKI"
 global.linkyt = "https://youtube.com/@zynxzoo"
 global.autoJoin = false
 global.antilink = false
@@ -34,7 +34,7 @@ global.codeInvite = ""
 global.imageurl = 'https://g.top4top.io/p_3194iz70l0.jpg'
 global.isLink = 'https://whatsapp.com/channel/0029VapVjjr1noz8wOgd6144'
 global.packname = "Zyn"
-global.author = "Zynxzo"
+global.author = "TOGE INUMAKI"
 global.jumlah = "5"
 
 
